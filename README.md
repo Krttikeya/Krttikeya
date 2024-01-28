@@ -1,6 +1,6 @@
-### Hi there! 👋
+# 👋 Hi there! 
 
-Hello, My name is Kartikeya. I am from K. K. Wagh Institute Of Engineering
+ Hello, My name is Kartikeya. I am from K. K. Wagh Institute Of Engineering 
 
 I am interested in gadget hardware and programming.
 I love to join communities to collaborate, create and learn new stuff.
@@ -13,4 +13,8 @@ I love to join communities to collaborate, create and learn new stuff.
 
 Thanks for visiting!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krttikeya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/krttikeya/) 
+![My Skills](https://skillicons.dev/icons?i=html,c,cpp,py,blender,matlab,arduino&perline=4)
+
+## 🔗 Links 
+[<img src='https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg' alt='github' height='40'>](https://github.com/krttikeya) [<img src="https://skillicons.dev/icons?i=linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/krttikeya/) 
+
