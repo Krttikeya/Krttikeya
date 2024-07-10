@@ -9,7 +9,7 @@ I love to join communities to collaborate, create and learn new stuff.
 - ⚡ I’m currently studying Electronics & Telecommunication Engineering
 - 🌱 I’m currently learning c++
 
-- 📫 How to reach me: krttikeya (Instagram, Linkedin)
+- 📫 How to reach me: @krttikeya (Instagram, Linkedin)
 
 Thanks for visiting!
 
