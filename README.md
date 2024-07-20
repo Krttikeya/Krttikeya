@@ -7,7 +7,7 @@ I love to join communities to collaborate, create and learn new stuff.
 
 - 📝 I’m currently working on this page
 - ⚡ I’m currently studying Electronics & Telecommunication Engineering
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently python for DS
 
 - 📫 How to reach me: @krttikeya (Instagram, Linkedin)
 
