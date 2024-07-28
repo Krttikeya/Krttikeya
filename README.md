@@ -1,11 +1,6 @@
 # 👋 Hi there! 
 
- Hello, My name is Kartikeya. I am from K. K. Wagh Institute Of Engineering 
-
-I am interested in gadget hardware and programming.
-I love to join communities to collaborate, create and learn new stuff.
-
-- 🎨 I love creating digital art
+ Hello, My name is Kartikeya. 
 - ⚡ I’m currently studying Electronics & Telecommunication Engineering
 - 🌱 I’m currently learning RDBMS
 
